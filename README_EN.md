@@ -5,6 +5,7 @@
 | Item | Details |
 |------|---------|
 | Version | `v0.1.0` |
+| GitHub | https://github.com/qquartsco-svg/Quantum-Shell |
 | Tests | `10 passed` |
 | Deps | Runtime: **stdlib only** · Test: `pytest>=8.0` |
 | Python | `>=3.10` |

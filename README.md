@@ -5,6 +5,7 @@
 | 항목 | 내용 |
 |------|------|
 | 버전 | `v0.1.0` |
+| GitHub | https://github.com/qquartsco-svg/Quantum-Shell |
 | 테스트 | `10 passed` |
 | 의존성 | 런타임: **stdlib only** · 테스트: `pytest>=8.0` |
 | Python | `>=3.10` |
